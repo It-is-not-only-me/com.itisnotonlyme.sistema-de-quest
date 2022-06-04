@@ -1,6 +1,6 @@
 {
     "name": "com.itisnotonlyme.sistema-de-quest",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "displayName": "Sistema de Quest",
     "description": "Es un sistema que permite crear una estructura dinamica y extendible de quest para cualquier juego",
     "unity": "2020.3",
